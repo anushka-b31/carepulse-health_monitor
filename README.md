@@ -53,6 +53,7 @@ AI Integration:
 ## System Architecture
 
 User Input (Vitals)
+
 ↓ 
 Flask API Backend
 ↓
