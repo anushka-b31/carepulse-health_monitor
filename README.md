@@ -53,15 +53,15 @@ AI Integration:
 ## System Architecture
 
 User Input (Vitals)
-        ↓
+↓ 
 Flask API Backend
-        ↓
+↓
 Health Logic Analysis
-        ↓
+↓
 SQLite Database Storage
-        ↓
+↓
 AI Health Summary Generation
-        ↓
+↓
 Alerts + Health Insights
 
 
